@@ -31,3 +31,11 @@ Finalmente, los datos procesados también se pueden visualizar y analizar en her
 #### Arquitectura del Pipeline
 
 El siguiente diagrama ilustra la arquitectura del pipeline:
+
+[![read.png](https://i.postimg.cc/h46wrmDT/read.png)](https://postimg.cc/XXKQNpyY)
+
+## Video del Funcionamiento del pipeline de GCP
+
+https://youtu.be/qiM0WIaLKiY?si=8y_mE9sBzK-4xd6a
+
+[![Comprehensive Markdown Crash Course](https://i.postimg.cc/RFjRcc70/Sin-t-tulo-2.png)](https://youtu.be/qiM0WIaLKiY?si=8y_mE9sBzK-4xd6a "Pipeline Daniel")
